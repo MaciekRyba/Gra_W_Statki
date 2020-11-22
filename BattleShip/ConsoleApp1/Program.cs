@@ -186,10 +186,8 @@ namespace ConsoleApp1
                 Console.WriteLine("Plansza do zatapiania statków: ");
                 drawBoard(playerHits);
                 Console.WriteLine("\t\n");
-                Console.WriteLine("Plansza KOMPUTERA: ");
-                drawBoard(computerBoard);
-                Console.WriteLine("player:{0}\n",playerShoots);
-                Console.WriteLine("computer:{0}\n", computerShoots);
+                Console.WriteLine("player points:{0}\n",playerShoots);
+                Console.WriteLine("computer points:{0}\n", computerShoots);
 
                 Console.WriteLine("\tWcisnij dowolny przycisk, aby kontynuowac ture !\n");
                 Console.ReadKey();

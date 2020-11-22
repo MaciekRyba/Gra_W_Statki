@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\macie\\source\\repos\\BattleShip\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\macie\\Documents\\GitHub\\Gra_W_Statki\\BattleShip\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\macie\\source\\repos\\BattleShip\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\macie\\Documents\\GitHub\\Gra_W_Statki\\BattleShip\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\macie\\source\\repos\\BattleShip\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\macie\\Documents\\GitHub\\Gra_W_Statki\\BattleShip\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\macie\\source\\repos\\BattleShip\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectPath": "C:\\Users\\macie\\Documents\\GitHub\\Gra_W_Statki\\BattleShip\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\macie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\macie\\source\\repos\\BattleShip\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\macie\\Documents\\GitHub\\Gra_W_Statki\\BattleShip\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
